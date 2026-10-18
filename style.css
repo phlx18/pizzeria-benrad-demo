@@ -859,12 +859,29 @@ footer a {
 
         gap: 20px;
     }
-
-   .demo-credit {
+.demo-credit {
     margin-top: 25px;
     font-size: 11px;
     opacity: 0.45;
     text-align: center;
     letter-spacing: 0.5px;
-    }
+}
+}
+.demo-banner {
+    background: #191919;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 20px;
+    font-size: 13px;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+.demo-credit {
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    font-size: 12px;
+    background: #e9e2d7;
+    color: #444;
 }
